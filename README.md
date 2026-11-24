@@ -1,6 +1,8 @@
 Orașul Tău - Galați
    Orașul Tău este o platformă digitală modernă menită să apropie cetățenii de administrația locală. Proiectul oferă o soluție simplă pentru raportarea problemelor urbane, propunerea de idei noi și monitorizarea dezvoltării orașului Galați în timp real.
 
+[Vezi prezentarea fără sunet](https://tg-jorj-2005.github.io/proiecte/orasul-tau/#prezentare) · [Fișier MP4](docs/media/prezentare.mp4)
+
 Funcționalități Principale
  - Hartă Interactivă: Vizualizezi toate sesizările din oraș direct pe hartă, colorate în funcție de categoria lor.
 
