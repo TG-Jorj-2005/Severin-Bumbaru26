@@ -101,3 +101,10 @@ Altele :
 Buton accesibilitate
 
 <img width="470" height="737" alt="image" src="https://github.com/user-attachments/assets/846daf40-f4f0-4f04-889f-8bfb04a17b62" />
+
+## Demonstrație video
+
+Căutarea unei sesizări și navigarea pe hartă în aplicația conectată la o bază MongoDB locală cu date demonstrative.
+
+https://github.com/user-attachments/assets/7d31e230-200f-4dca-9b98-66794821dd31
+
